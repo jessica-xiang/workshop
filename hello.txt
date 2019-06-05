@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-QQQQssssHelloooo!
-=======
-qqqssssHelloooo!
->>>>>>> Stashed changes
-=======
-QQQQssssHelloooo!
->>>>>>> Stashed changes
+QQQQsss
